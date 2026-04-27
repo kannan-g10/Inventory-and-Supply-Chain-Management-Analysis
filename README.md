@@ -31,7 +31,11 @@ This project solves these issues by automating the calculation of safety stocks,
 ---
 
 ## 🖼️ Dashboard Preview
-* **Please navigate to the `/Images` folder.*
+<img width="2626" height="1518" alt="page1" src="https://github.com/user-attachments/assets/05c8304b-9056-4b49-886d-e4427e2dd7a9" />
+<img width="2596" height="1514" alt="page2" src="https://github.com/user-attachments/assets/faff581c-5a74-4fdb-8fb1-9f3a6318226e" />
+<img width="2606" height="1514" alt="page3" src="https://github.com/user-attachments/assets/41501f13-7b6f-4308-8b45-168d99d76f49" />
+
+
 
 ---
 
