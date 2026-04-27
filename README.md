@@ -1,7 +1,7 @@
 # 📦 Inventory & Supply Chain Management Analysis – Kannan G
 
 ## 📌 Project Overview
-This project provides a comprehensive analysis of inventory health and supply chain efficiency. By integrating data from procurement and sales, the project identifies bottlenecks, optimizes stock levels, and provides actionable insights through data visualization. The workflow covers the full data cycle: **Extraction (SQL)**, **Transformation (Python)**, and **Visualization (Power BI)**.
+This project provides a comprehensive analysis of inventory health and supply chain efficiency. By integrating data from procurement and sales, the project identifies bottlenecks, optimizes stock levels, and provides actionable insights through data visualization. The workflow covers the full data cycle: **Extraction (PQE)**, **Transformation (PQE)**, and **Visualization (Power BI)**.
 
 ---
 
